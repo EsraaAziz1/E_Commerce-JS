@@ -31,7 +31,8 @@ body {
 }
 .Nav ul li:hover{
     cursor: pointer;
-    
+     background-color: white;
+    color: black;
 }
 
 .Nav span {
